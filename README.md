@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Wilson Kamacupa! 😄</h1>
+<h1 align="center">👋 Hello, I'm Wilson Canete Kamacupa! 😄</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;MSc+Computer+Science;AI+Security+Researcher" alt="Typing SVG" /></a>
