@@ -1,4 +1,18 @@
-<h1>👋 Hello, I'm Wilson Kamacupa! 😄</h1>
+<h1 align="center">👋 Hello, I'm Wilson Kamacupa! 😄</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;MSc+Computer+Science;AI+Security+Researcher" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wilsoncanetekamacupa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/wilsoncanetekamacupa?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/wilsoncanetekamacupa?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
+---
+
+## 🎓 About Me
 
 🎓 Master's student in Computer Science Engineering at the University of Debrecen, Hungary.  
 🔐 Focused on Cybersecurity, Networks, and Full Stack Development.  
@@ -8,12 +22,16 @@
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-kamacupa-a61262302/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:wilsoncanetekamacupa@gmail.com)
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/wilson-kamacupa-a61262302/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:wilsoncanetekamacupa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ## ⚙️ Technologies & Tools
 
@@ -40,7 +58,6 @@
 <div>
   <a href="https://github.com/wilsoncanetekamacupa/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilsoncanetekamacupa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-    
 </div>
 
 ---
