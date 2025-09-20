@@ -33,7 +33,7 @@
 
 ## 🐍 Python Projects
 
-- 🧑‍🦱🔍 [Facial Detection and Recognition](https://github.com/wilsoncanetekamacupa/facial_detection_and_recognition)
+- 🧑‍🦱🔍 [Facial Detection and Recognition] (https://github.com/wilsoncanetekamacupa/facial_detection_and_recognition)
 
 
 ---
