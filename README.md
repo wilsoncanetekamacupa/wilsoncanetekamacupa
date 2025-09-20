@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Wilson Canete Kamacupa! 😄</h1>
+<h1>👋 Hello, I'm Wilson Canete Kamacupa!</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Professional;Full+Stack+Developer;" alt="Typing SVG" /></a>
@@ -12,13 +12,29 @@
 
 ---
 
-## 🎓 About Me
+## 🧑‍🔬 About Me
 
 🎓 Master's student in Computer Science Engineering at the University of Debrecen, Hungary.  
 🔐 Focused on Cybersecurity, Networks, and Full Stack Development.  
 💻 Enthusiast in Web, Mobile Application Development, and Smart Security Systems.  
 🌍 Originally from Angola, currently living in Hungary 🇦🇴 🇭🇺  
 🎯 Always learning something new to grow 1% every day!
+
+---
+
+## 🔐 Cybersecurity Projects
+
+
+
+## 💻 Websites Projects
+
+- 🧑‍💻 [Personal Portifolio] (https://github.com/wilsoncanetekamacupa/MY_Profissional_Portifolio)
+- 🍽️ [GTS Restaurante] (https://github.com/wilsoncanetekamacupa/GTSRestaurante)
+
+## 🐍 Python Projects
+
+- 🧑‍🦱🔍 [Facial Detection and Recognition](https://github.com/wilsoncanetekamacupa/facial_detection_and_recognition)
+
 
 ---
 
