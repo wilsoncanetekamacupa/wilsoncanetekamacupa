@@ -24,6 +24,7 @@
 
 ## 🔐 Cybersecurity Projects
 
+- [Network Scanning with Wireshark and Nmap, using-NSE] (https://github.com/wilsoncanetekamacupa/Network-Scanning-with-Wireshark-and-Nmap-using-NSE/blob/main/README.md)
 
 
 ## 💻 Websites Projects
@@ -32,8 +33,6 @@
 - 🍽️ [GTS Restaurante] (https://github.com/wilsoncanetekamacupa/GTSRestaurante)
 
 ## 🐍 Python Projects
-
-
 
 
 ---
