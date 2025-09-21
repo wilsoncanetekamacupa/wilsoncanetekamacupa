@@ -22,6 +22,29 @@
 
 ---
 
+## 🏆 Certifications & Credentials
+
+### 🔐 Cybersecurity Certifications
+
+| Certificação | Emissor | Data | Competências / Skills |
+|--------------|---------|------|------------------------|
+| Building AI-Based Cybersecurity Pipelines | NVIDIA | Set 2025 | AI-based cybersecurity, Morphus Python SDK |
+| Jr. Penetration Tester | TryHackMe | Ago 2025 | Pentesting methodologies, Enumeration, Exploitation |
+| Cyber Security | Oesom™ | Jun 2025 | Nmap, Wireshark, IDS, Linux Firewalls, OpenVAS |
+| Google Cybersecurity | United Latino Students Association | Fev 2025 | Risk management, Threat detection, Security automation |
+| Microsoft Security, Compliance, and Identity Fundamentals | Microsoft | Jan 2025 | Cloud Security |
+
+
+### 🤖 AI & Development Certifications
+
+| Certificação | Emissor | Data | Competências / Skills |
+|--------------|---------|------|------------------------|
+| AI for All: From Basics to GenAI Practice | NVIDIA | Jan 2025 | AI fundamentals, Generative AI applications |
+| Introduction to Networking | NVIDIA | Dez 2024 | Networking fundamentals, Advanced practices |
+| Python Essentials 1 | Cisco | Out 2024 | Python programming fundamentals |
+
+---
+
 ## 🔐 Cybersecurity Projects
 
 - [Network Scanning with Wireshark and Nmap, using-NSE] (https://github.com/wilsoncanetekamacupa/Network-Scanning-with-Wireshark-and-Nmap-using-NSE/blob/main/README.md)
