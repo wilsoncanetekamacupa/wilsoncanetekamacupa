@@ -25,7 +25,8 @@
 ## 🔐 Cybersecurity Projects
 
 - [Network Scanning with Wireshark and Nmap, using-NSE] (https://github.com/wilsoncanetekamacupa/Network-Scanning-with-Wireshark-and-Nmap-using-NSE/blob/main/README.md)
-- [DHCP Using Hyenae] (https://github.com/wilsoncanetekamacupa/DHCP-Attack-Simulation-using-Hyenae) 
+- [DHCP Using Hyenae] (https://github.com/wilsoncanetekamacupa/DHCP-Attack-Simulation-using-Hyenae)
+- [Vulnerability Analysis using Nessus and OpenVAS/GVM] (https://github.com/wilsoncanetekamacupa/VULNERABILITY-ANALYSIS-USING-NESSUS-AND-OPENVAS-GVM)
 
 
 ## 💻 Websites Projects
