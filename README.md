@@ -54,9 +54,14 @@
 
 ## 💻 Websites Projects
 
-- 🧑‍💻 [Personal Portifolio] (https://github.com/wilsoncanetekamacupa/MY_Profissional_Portifolio)
-- 🍽️ [GTS Restaurante] (https://github.com/wilsoncanetekamacupa/GTSRestaurante)
+- 🧑‍💻 [Personal Portfolio](https://github.com/wilsoncanetekamacupa/MY_Profissional_Portifolio)  
+  A personal website to showcase my career, skills, and professional projects.
 
+- 🍽️ [GTS Restaurant](https://github.com/wilsoncanetekamacupa/GTSRestaurante)  
+  A web application for restaurant management, including menu display and ordering system.
+
+- 🧬 [HIV Portal](https://github.com/wilsoncanetekamacupa/HIVPortal)  
+  A web platform designed to streamline the scheduling and management of medical appointments for HIV patients in Angola.
 ## 🐍 Python Projects
 
 
