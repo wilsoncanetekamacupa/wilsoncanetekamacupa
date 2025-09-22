@@ -47,9 +47,14 @@
 
 ## 🔐 Cybersecurity Projects
 
-- [Network Scanning with Wireshark and Nmap, using-NSE] (https://github.com/wilsoncanetekamacupa/Network-Scanning-with-Wireshark-and-Nmap-using-NSE/blob/main/README.md)
-- [DHCP Using Hyenae] (https://github.com/wilsoncanetekamacupa/DHCP-Attack-Simulation-using-Hyenae)
-- [Vulnerability Analysis using Nessus and OpenVAS/GVM] (https://github.com/wilsoncanetekamacupa/VULNERABILITY-ANALYSIS-USING-NESSUS-AND-OPENVAS-GVM)
+- 📡 [Network Scanning with Wireshark and Nmap (using NSE)](https://github.com/wilsoncanetekamacupa/Network-Scanning-with-Wireshark-and-Nmap-using-NSE/blob/main/README.md)  
+  Practical exploration of **network scanning techniques** using Wireshark and Nmap with the **Nmap Scripting Engine (NSE)**, focusing on traffic analysis and vulnerability detection.
+
+- 🛰️ [DHCP Attack Simulation with Hyenae](https://github.com/wilsoncanetekamacupa/DHCP-Attack-Simulation-using-Hyenae)  
+  Simulation of a **DHCP starvation and spoofing attack** using Hyenae, demonstrating how attackers can exhaust IP addresses or impersonate DHCP servers in a network.
+
+- 🛡️ [Vulnerability Analysis with Nessus and OpenVAS/GVM](https://github.com/wilsoncanetekamacupa/VULNERABILITY-ANALYSIS-USING-NESSUS-AND-OPENVAS-GVM)  
+  Comparative study of **vulnerability scanning tools** (Nessus and OpenVAS/GVM), showcasing their use in identifying, analyzing, and reporting security risks in IT environments.
 
 
 ## 💻 Websites Projects
@@ -62,7 +67,6 @@
 
 - 🧬 [HIV Portal](https://github.com/wilsoncanetekamacupa/HIVPortal)  
   A web platform designed to streamline the scheduling and management of medical appointments for HIV patients in Angola.
-## 🐍 Python Projects
 
 
 ---
