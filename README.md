@@ -56,6 +56,10 @@
 - 🛡️ [Vulnerability Analysis with Nessus and OpenVAS/GVM](https://github.com/wilsoncanetekamacupa/VULNERABILITY-ANALYSIS-USING-NESSUS-AND-OPENVAS-GVM)  
   Comparative study of **vulnerability scanning tools** (Nessus and OpenVAS/GVM), showcasing their use in identifying, analyzing, and reporting security risks in IT environments.
 
+- 🛡️ [Phishing Detection API using Machine Learning](https://github.com/wilsoncanetekamacupa/phishing-detection-api)  
+  Comparative study of **vulnerability scanning tools** (Nessus and OpenVAS/GVM), showcasing their use in identifying, analyzing, and reporting security risks in IT environments.
+ 
+
 
 ## 💻 Websites Projects
 
