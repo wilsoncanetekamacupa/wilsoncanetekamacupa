@@ -57,7 +57,7 @@
   Comparative study of **vulnerability scanning tools** (Nessus and OpenVAS/GVM), showcasing their use in identifying, analyzing, and reporting security risks in IT environments.
 
 - 🛡️ [Phishing Detection API using Machine Learning](https://github.com/wilsoncanetekamacupa/phishing-detection-api)  
-  Comparative study of **vulnerability scanning tools** (Nessus and OpenVAS/GVM), showcasing their use in identifying, analyzing, and reporting security risks in IT environments.
+  Project designed to classify emails as **legitimate** or **phishing** based on advanced feature extraction and a trained machine learning model
  
 
 
