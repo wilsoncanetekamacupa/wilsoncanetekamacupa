@@ -69,7 +69,7 @@
 - 🍽️ [GTS Restaurant](https://github.com/wilsoncanetekamacupa/GTSRestaurante)  
   A web application for restaurant management, including menu display and ordering system.
 
-- 🧬 [Portal Elosaude](https://github.com/wilsoncanetekamacupa/HIVPortalAngola) 
+- 🧬 [Portal Elosaude](https://github.com/wilsoncanetekamacupa/Elosaude) 
   A web platform designed to streamline the scheduling and management of medical appointments for HIV patients in Angola.
 
 
