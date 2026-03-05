@@ -47,6 +47,12 @@
 
 ## 🔐 Cybersecurity Projects
 
+- 🚨 [Project Aegis: Cyber Command Center](https://github.com/wilsoncanetekamacupa/Aegis)  
+  Project Aegis is a premium, high-performance Cybersecurity platform designed for External Attack Surface Management (EASM) and Real-Time Threat Intelligence. 
+
+- 🛡️ [Phishing Detection API using Machine Learning](https://github.com/wilsoncanetekamacupa/phishing-detection-api)  
+  Project designed to classify emails as **legitimate** or **phishing** based on advanced feature extraction and a trained machine learning model
+
 - 📡 [Network Scanning with Wireshark and Nmap (using NSE)](https://github.com/wilsoncanetekamacupa/Network-Scanning-with-Wireshark-and-Nmap-using-NSE/blob/main/README.md)  
   Practical exploration of **network scanning techniques** using Wireshark and Nmap with the **Nmap Scripting Engine (NSE)**, focusing on traffic analysis and vulnerability detection.
 
@@ -56,8 +62,7 @@
 - 🛡️ [Vulnerability Analysis with Nessus and OpenVAS/GVM](https://github.com/wilsoncanetekamacupa/VULNERABILITY-ANALYSIS-USING-NESSUS-AND-OPENVAS-GVM)  
   Comparative study of **vulnerability scanning tools** (Nessus and OpenVAS/GVM), showcasing their use in identifying, analyzing, and reporting security risks in IT environments.
 
-- 🛡️ [Phishing Detection API using Machine Learning](https://github.com/wilsoncanetekamacupa/phishing-detection-api)  
-  Project designed to classify emails as **legitimate** or **phishing** based on advanced feature extraction and a trained machine learning model
+
  
 
 
