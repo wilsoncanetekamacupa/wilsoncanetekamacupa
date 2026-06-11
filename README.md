@@ -113,13 +113,12 @@
 
 ---
 
-## ✨ Goals for 2025
+## ✨ Goals for 2026
 
 - [x] Develop more MERN projects
 - [x] Develop a cybersecurity project with AI
 - [x] Publish a scientific article
-- [ ] Complete my master's thesis with social impact
-- [ ] Earn certifications in Pentesting and Cloud Security
+- [x] Complete my master's thesis with social impact
 
 ---
 
