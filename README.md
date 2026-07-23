@@ -36,12 +36,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilsoncanetekamacupa&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilsoncanetekamacupa&theme=github-dark&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wilsoncanetekamacupa&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilsoncanetekamacupa&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsoncanetekamacupa&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wilsoncanetekamacupa&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -87,7 +87,7 @@
 **Security & Networking**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-black?style=flat&logo=nmap&logoColor=white&color=2E2E2E)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Languages**
@@ -100,6 +100,7 @@
 
 **Frameworks & Tools**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
